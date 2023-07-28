@@ -28,6 +28,10 @@ a:visited {
     color: #947e5d;
 }
 
+figure {
+    max-width: 100vw;
+}
+
 figcaption {
     font-size: 0.8em;
 }
